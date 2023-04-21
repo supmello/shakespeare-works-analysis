@@ -1,4 +1,3 @@
-
 # A program to analyze the works of Shakespeare
 
 """
