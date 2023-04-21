@@ -1,8 +1,4 @@
-# Author: Tristan Patrick
-# Section: CIS 225 01
-# Date: 4/20/23
-# File: Shakespeare.py
-# 
+
 # A program to analyze the works of Shakespeare
 
 """
